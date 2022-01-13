@@ -1,0 +1,30 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+    char operators;
+    float num1,num2;
+    cout<<"enter operator:+,-,*,/:";
+    cin>>operators;
+    cout<<"enter two operands";
+    cin>>num1>>num2;
+    switch(operators)
+    {
+    case'+':
+        cout<<num1<<"+"<<num2<<"="<<num1+num2;
+        break;
+    case'-':
+        cout<<num1<<"-"<<num2<<"="<<num1-num2;
+        break;
+    case'*':
+        cout<<num1<<"*"<<num2<<"="<<num1*num2;
+        break;
+    case'/':
+        cout<<num1<<"/"<<num2<<"="<<num1/num2;
+        break;
+        default:;
+        cout<<"the operator is not correct!";
+        return 0;
+
+    }
+}
