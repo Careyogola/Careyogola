@@ -1,0 +1,141 @@
+.headers{
+    background-color:white;
+    color: black; 
+    overflow: hidden;
+    font-family: sans-serif;
+    padding: 20px 10px;
+}
+.headers a{
+    float:left;
+    color:black;
+    text-align: center;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 18px;
+    line-height: 25px;
+    border-radius: 4px;
+}
+.headers a.logo{
+    font-size: 25px;
+    font-weight: bold;
+}
+.headers a.active{
+    background-color: dodgerblue;
+    color: white;
+    margin: 4px;
+}
+.header-right{
+    float:right ;
+}
+@media screen and (max-width:600px){
+    .headers a{
+        float: none;
+        display:block;
+        text-align: left;
+    }
+    .header-right{
+        float: none;
+    }
+}
+body{
+    font-family:sans-serif;
+    margin: 0;
+    background-color: white;
+}
+em{
+    color:black;
+}
+.col-container{
+    display: table;
+    width:100%;
+}
+.col1, .col2, .col3{
+    display:table-cell;
+    padding: 16px;
+    background-color: black;
+    color: white;
+}
+@media only screen and(max-width:600px){
+    .col1, .col2, .col3{
+        display:block;
+        width: 100%;
+    }
+}
+#carey{
+    display: flex;
+}
+h4{
+    font-style: italic;
+    color: white;
+}
+.ytr{
+    color: white;
+}
+#yt{
+    color: black;
+    font-size: medium;
+    font-weight: 300;
+    font-family:'Times New Roman', Times, serif;
+}
+section{
+    display: flex;
+    margin: 20px;
+}
+.section1{
+    margin: 20px;
+    color: #feffff;
+}
+img{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+.tonny{
+    color:black;
+    text-decoration: underline;
+    font-style: normal;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight:bolder;
+    font-size: x-large;
+}
+#ty{
+    color:black;
+    font-size: medium;
+    font-weight: bold;
+}
+#toy{
+    color:black;
+    font-weight: bold;
+}
+footer{
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    background-color: #123c69;
+    position: relative;
+}
+.big{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.footer3, .footer2{
+    text-align: center;
+}
+.ye{
+    margin-bottom: 20px;
+}
+@media screen and (max-width:600px) {
+    body{
+        display:block;
+    }
+}
+a{
+    color:aqua;
+}
+#classified{
+    color: #000;
+    font-weight: 300;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
