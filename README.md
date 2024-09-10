@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m Carey Ogola, Software Engineer based in Nairobi,Kenya<br>🤝 I’m passionate in building Mobile and web apps<br>🌱 I’m currently learning NextJs<br>💬 Ask me about Flutter,Dart ,Integrations,Javascript <br>⚡ Do you play Video games ? well I do FiFA,COD...
+🔭 I’m Carey Ogola, Software Engineer based in Nairobi,Kenya<br>🤝 I’m passionate in building Mobile and web apps<br>🌱 I’m currently learning NextJs<br>💬 Ask me about Android,Web <br>⚡ Do you play Video games ? well I do FiFA,COD...
 
 
 ## 🌐 Socials:
